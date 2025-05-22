@@ -54,7 +54,7 @@ const Hero = () => {
               <FaGithub size={22} />
               <span className="text-sm font-medium">GitHub</span>
             </a>
-            <a href="https://linkedin.com/in/mridulrakhecha" target="_blank" rel="noopener noreferrer"
+            <a href="https://www.linkedin.com/in/mridul-rakhecha-926a41365/" target="_blank" rel="noopener noreferrer"
                className="flex items-center gap-2 text-white hover:text-[#915EFF] transition-colors">
               <FaLinkedin size={22} />
               <span className="text-sm font-medium">LinkedIn</span>
